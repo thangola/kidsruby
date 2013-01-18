@@ -2,7 +2,7 @@
   "buttons": {
     "run": "Chạy",
     "clear": "Xoá hết",
-    "open": "Mở file",
+    "open": "Mở",
     "save": "Lưu",
     "stop": "Dừng"
   },
